@@ -1,6 +1,11 @@
 {
   "name": "react-formik-wizard",
   "version": "0.1.0",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
@@ -28,7 +33,6 @@
     ]
   },
   "description": "This project is coming soon.",
-  "main": "src/index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
