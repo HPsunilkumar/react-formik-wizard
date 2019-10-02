@@ -27,5 +27,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project is coming soon.",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HPsunilkumar/react-formik-wizard.git"
+  },
+  "keywords": [
+    "wizard",
+    "formik"
+  ],
+  "author": "Sunil Kumar HP <hp.sunilkumar793@gmail.com> (example.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HPsunilkumar/react-formik-wizard/issues"
+  },
+  "homepage": "https://github.com/HPsunilkumar/react-formik-wizard#readme"
 }
